@@ -10,7 +10,7 @@
 	}
 	else
 	{
-		result = isAnagram (word1, word2);
+		var result = isAnagram (word1, word2);
 		alert (result);
 	}
 
